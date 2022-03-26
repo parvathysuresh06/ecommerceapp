@@ -1,0 +1,57 @@
+.main_top_left{
+    margin-left: 20px;
+    float: left;
+    height: 400px;
+    width:350px
+}
+.img2{
+    float: left;
+    margin-left: 30px;
+}
+.img2 img:hover{
+    transform:scale(1.1) rotate(-5deg);
+}
+.imag{
+    float: left;
+    margin-left: 20px; 
+}
+.imag img:hover{
+    transform: scale(1,1) rotate(-5deg);
+}
+card-body{
+    align-items: center;
+}
+.pic img:hover{
+    transform:scale(.5);
+}
+.button1{
+    background-color: rgb(49, 171, 220);
+     color: white;
+     border: none;
+     margin-right: 2px;
+     padding: 6px 2px;
+     border-radius: 5px;
+     cursor: pointer;
+ }
+ .button1:hover{
+    box-shadow: 0 3px 6px black;
+}
+ .button2{
+    background-color: rgb(49, 171, 220);
+    color: white;
+    border: none;
+    margin-left: 2px;
+    padding: 6px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+ }
+ .button2:hover{
+    box-shadow: 0 3px 6px black;
+}
+.icon1 img{
+    cursor: pointer;
+}
+.sell{
+    color: blue;
+}
+ 
